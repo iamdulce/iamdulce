@@ -21,7 +21,7 @@
 
 I'm a professional IT Recruiter who decided to be in the other side of the table
 
-I just finished a Full Stack Development Jr Bootcamp on KeepCoding and I will soon start the advance modules.
+I just started a Full Stack Development Bootcamp on KeepCoding to get more knowledge.
 
 Looking for my first webdev job experience! ✨
 
