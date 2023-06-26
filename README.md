@@ -12,7 +12,7 @@
 </div>
 
 
-# Hi there, I'm Dulce 👋
+# Hi there, I'm Dulce 👋 [She/Her]
 [![GitHub forks](https://img.shields.io/github/forks/iamdulce/rock-paper-scissors-.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/iamdulce/rock-paper-scissors-/network/)
 [![GitHub stars](https://img.shields.io/github/stars/iamdulce/rock-paper-scissors-.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/iamdulce/rock-paper-scissors-/stargazers)
 [![GitHub followers](https://img.shields.io/github/followers/iamdulce.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iamdulce?tab=followers)
