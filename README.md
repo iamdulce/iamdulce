@@ -29,11 +29,11 @@ Working as a Junior Frontend Dev at Wejyc and cursing a Full Stack Development B
 
 * [![HTML](https://img.shields.io/badge/--E34F26?logo=html5&logoColor=000)](https://developer.mozilla.org/es/docs/Web/HTML) HTML
 * [![CSS](https://img.shields.io/badge/--1572B6?logo=css3&logoColor=000)](https://developer.mozilla.org/es/docs/Web/CSS) CSS
-* [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/) Javascript
+* [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
 * [![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://legacy.reactjs.org/) 
-* ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/docs/latest/api/) 
-* [![Python](https://img.shields.io/badge/--3776AB?logo=python&logoColor=000)](https://www.python.org/) Python
-* [![SQLite](https://img.shields.io/badge/--003B57?logo=sqlite&logoColor=000)](https://www.sqlite.org/) SQL
+* [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/docs/latest/api/)
+* [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+* [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
 
 ---
