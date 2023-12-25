@@ -30,7 +30,7 @@ Working as a Junior Frontend Dev at Wejyc and cursing a Full Stack Development B
 * [![HTML](https://img.shields.io/badge/--E34F26?logo=html5&logoColor=000)](https://developer.mozilla.org/es/docs/Web/HTML) HTML
 * [![CSS](https://img.shields.io/badge/--1572B6?logo=css3&logoColor=000)](https://developer.mozilla.org/es/docs/Web/CSS) CSS
 * [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/) Javascript
-* [![React]([https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://www.javascript.com/) React
+* [![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://www.javascript.com/) React
 * [![Node](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/) Node
 * [![Python](https://img.shields.io/badge/--3776AB?logo=python&logoColor=000)](https://www.python.org/) Python
 * [![SQLite](https://img.shields.io/badge/--003B57?logo=sqlite&logoColor=000)](https://www.sqlite.org/) SQL
