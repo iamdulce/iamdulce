@@ -27,8 +27,8 @@ Working as a Junior Frontend Dev at Wejyc and cursing a Full Stack Development B
 
 ### 🌱 What I'm learning
 
-* [![HTML](https://img.shields.io/badge/--E34F26?logo=html5&logoColor=000)](https://developer.mozilla.org/es/docs/Web/HTML) HTML
-* [![CSS](https://img.shields.io/badge/--1572B6?logo=css3&logoColor=000)](https://developer.mozilla.org/es/docs/Web/CSS) CSS
+* [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML) 
+* [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS) 
 * [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
 * [![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://legacy.reactjs.org/) 
 * [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/docs/latest/api/)
