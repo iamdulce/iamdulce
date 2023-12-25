@@ -19,11 +19,9 @@
 
 ### 👩‍💻 About Me
 
-I'm a professional IT Recruiter who decided to be in the other side of the table
+Former IT Recruiter who decided to be in the other side of the table.
 
-I just started a Full Stack Development Bootcamp on KeepCoding to get more knowledge.
-
-Looking for my first webdev job experience! ✨
+Working as a Junior Frontend Dev at Wejyc and cursing a Full Stack Development Bootcamp on KeepCoding✨
 
 ---
 
@@ -32,6 +30,8 @@ Looking for my first webdev job experience! ✨
 * [![HTML](https://img.shields.io/badge/--E34F26?logo=html5&logoColor=000)](https://developer.mozilla.org/es/docs/Web/HTML) HTML
 * [![CSS](https://img.shields.io/badge/--1572B6?logo=css3&logoColor=000)](https://developer.mozilla.org/es/docs/Web/CSS) CSS
 * [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/) Javascript
+* [![React]([https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge))](https://www.javascript.com/) React
+* [![Node](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/) Node
 * [![Python](https://img.shields.io/badge/--3776AB?logo=python&logoColor=000)](https://www.python.org/) Python
 * [![SQLite](https://img.shields.io/badge/--003B57?logo=sqlite&logoColor=000)](https://www.sqlite.org/) SQL
 
