@@ -21,7 +21,7 @@
 
 Former IT Recruiter who decided to be in the other side of the table.
 
-Working as a Junior Frontend Dev at Wejyc and cursing a Full Stack Development Bootcamp on KeepCoding✨
+Working as a Junior Frontend Dev at Wejyc✨
 
 ---
 
