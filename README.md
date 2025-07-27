@@ -43,6 +43,8 @@ Working as a Junior Frontend Dev at Wejyc✨
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamdulce&show_icons=true&theme=radical)](https://github.com/iamdulce/github-readme-stats)
 
+<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdulce&layout=compact&theme=radical)](https://github.com/iamdulce/github-readme-stats)
 
 <!--
